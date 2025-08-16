@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorySpoilApiTests", "StorySpoilApiTests.csproj", "{8E07FE6C-FEC3-89B1-B50C-87C0128C16FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E07FE6C-FEC3-89B1-B50C-87C0128C16FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E07FE6C-FEC3-89B1-B50C-87C0128C16FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E07FE6C-FEC3-89B1-B50C-87C0128C16FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E07FE6C-FEC3-89B1-B50C-87C0128C16FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66952069-3132-4A6A-99B4-0FFF59B8E6C3}
+	EndGlobalSection
+EndGlobal
